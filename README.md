@@ -55,11 +55,11 @@ For CodeBasics, the most engaging content revolves around interview-style discus
   - *Finding:* FreeCodeCamp dominates with the highest average view count, followed by Rishab Mishra and techTFQ.  
   - *Insight:* Channels with lower view counts should refine their SEO strategy, thumbnails, and social media visibility.
  
-  - **What are the best days of the week to post YouTube videos for maximum engagement?**
-- *Finding:* Weekdays outperform weekends, with higher audience activity.
+- **What are the best days of the week to post YouTube videos for maximum engagement?**
+  -*Finding:* Weekdays outperform weekends, with higher audience activity.
   Tuesday, Wednesday, and Saturday drive peak engagement.
   Friday sees lower interaction, likely due to weekend prep.
-  *Insight:* Post on Tuesday & Wednesday for maximum reach.
+  -*Insight:* Post on Tuesday & Wednesday for maximum reach.
   Use Saturday for long-form content when viewers have more time.
   Avoid Friday uploads unless targeting quick-view content.
 
