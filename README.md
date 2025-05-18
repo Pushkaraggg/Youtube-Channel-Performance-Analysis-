@@ -30,44 +30,44 @@ Below is a breakdown of the technologies used and their respective purposes in t
 Below are some of the questions explored in the dashboard, along with insights derived:
 
 - **Which channel has the highest subscriber base?**  
-  - *Finding:* FreeCodeCamp leads with the highest subscriber count, followed by CodeBasics and Krish Naik.  
-  - *Insight:* A large subscriber base does not necessarily correlate with engagement or content effectiveness.  
+  - **Finding:** FreeCodeCamp leads with the highest subscriber count, followed by CodeBasics and Krish Naik.  
+  - **Insight:** A large subscriber base does not necessarily correlate with engagement or content effectiveness.  
 
 - **Which channels have the highest engagement rates?**  
-  - *Finding:* Satish Dhawale ranks highest in engagement rate, followed by Kenjee and Zero Analyst.  
-  - *Insight:* Despite having a high subscriber count, FreeCodeCamp and CodeBasics do not rank in engagement rate, suggesting a gap in audience interaction.  
+  - **Finding:** Satish Dhawale ranks highest in engagement rate, followed by Kenjee and Zero Analyst.  
+  - **Insight:** Despite having a high subscriber count, FreeCodeCamp and CodeBasics do not rank in engagement rate, suggesting a gap in audience interaction.  
 
 - **Which channel has the most positive sentiment (polarity score)?**  
-  - *Finding:* Codebasics scores the highest in sentiment analysis with a polarity score of 0.456.  
-  - *Insight:* A higher sentiment score indicates strong positive reception, but lower scores suggest potential content or audience perception issues.  
+  - **Finding:** Codebasics scores the highest in sentiment analysis with a polarity score of 0.456.  
+  - **Insight:** A higher sentiment score indicates strong positive reception, but lower scores suggest potential content or audience perception issues.  
 
 - **Does frequent uploading impact engagement?**  
-  - *Finding:* DataCamp has the highest number of uploads but the lowest engagement rate.  
-  - *Insight:* High upload frequency does not necessarily drive engagement—quality and audience relevance matter more.  
+  - **Finding:** DataCamp has the highest number of uploads but the lowest engagement rate.  
+  - **Insight:** High upload frequency does not necessarily drive engagement—quality and audience relevance matter more.  
 
 - **What are the most engaging content on top 2 channel?**  
-  - *Finding:*  FreeCodeCamp, the most engaging content tends to be short-form tutorials, focusing on quick, actionable learning. 
+  - **Finding:**  FreeCodeCamp, the most engaging content tends to be short-form tutorials, focusing on quick, actionable learning. 
 For CodeBasics, the most engaging content revolves around interview-style discussions and long-form educational sessions.
 .  
-  - *Insight:* Identifying top-performing content enables creators to replicate successful strategies for future growth.  
+  - **Insight:** Identifying top-performing content enables creators to replicate successful strategies for future growth.  
 
 - **How does average view count impact performance?**  
-  - *Finding:* FreeCodeCamp dominates with the highest average view count, followed by Rishab Mishra and techTFQ.  
-  - *Insight:* Channels with lower view counts should refine their SEO strategy, thumbnails, and social media visibility.
+  - **Finding:** FreeCodeCamp dominates with the highest average view count, followed by Rishab Mishra and techTFQ.  
+  - **Insight:** Channels with lower view counts should refine their SEO strategy, thumbnails, and social media visibility.
  
 - **What are the best days of the week to post YouTube videos for maximum engagement?**
-  - *Finding:* Weekdays outperform weekends, with higher audience activity.
+  - **Finding:** Weekdays outperform weekends, with higher audience activity.
   - Tuesday, Wednesday, and Saturday drive peak engagement.
   - Friday sees lower interaction, likely due to weekend prep.
-  - *Insight:* Post on Tuesday & Wednesday for maximum reach.Use Saturday for long-form content when viewers have more time.
+  - **Insight:** Post on Tuesday & Wednesday for maximum reach.Use Saturday for long-form content when viewers have more time.
   - Avoid Friday uploads unless targeting quick-view content.
 
 
 - **How should posting times be adjusted based on audience demographics?**
-  - *Finding:* Work professionals → Engage mostly between 7 AM – 9 AM (before work) and 7 PM – 9 PM (after work).
+  - **Finding:** Work professionals → Engage mostly between 7 AM – 9 AM (before work) and 7 PM – 9 PM (after work).
   - Students → More active in afternoons (3 PM – 7 PM).
   - Global audiences → Late-night uploads (10 PM – 12 AM) work best.
-  - *Insight:* Creators should analyze their audience demographics to refine posting schedules.If targeting professionals, early morning and evening slots work best.If targeting students, afternoon posts optimize engagement.
+  - **Insight:** Creators should analyze their audience demographics to refine posting schedules.If targeting professionals, early morning and evening slots work best.If targeting students, afternoon posts optimize engagement.
 
 
 
