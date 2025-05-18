@@ -34,7 +34,7 @@ Below are some of the questions explored in the dashboard, along with insights d
   - *Insight:* A large subscriber base does not necessarily correlate with engagement or content effectiveness.  
 
 - **Which channels have the highest engagement rates?**  
-  - *Finding:* Satish Dhawale ranks highest in engagement rate, followed by Kenji and Zero Analyst.  
+  - *Finding:* Satish Dhawale ranks highest in engagement rate, followed by Kenjee and Zero Analyst.  
   - *Insight:* Despite having a high subscriber count, FreeCodeCamp and CodeBasics do not rank in engagement rate, suggesting a gap in audience interaction.  
 
 - **Which channel has the most positive sentiment (polarity score)?**  
