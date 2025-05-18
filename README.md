@@ -46,8 +46,8 @@ Below are some of the questions explored in the dashboard, along with insights d
   - *Insight:* High upload frequency does not necessarily drive engagement—quality and audience relevance matter more.  
 
 - **What are the most engaging content on top 2 channel?**  
-  - *Finding:* " FreeCodeCamp, the most engaging content tends to be short-form tutorials, focusing on quick, actionable learning. These videos help viewers grasp key concepts efficiently, keeping engagement high.
-For CodeBasics, the most engaging content revolves around interview-style discussions and long-form educational sessions, where industry experts and professionals share insights on data science, Python, and analytics.
+  - *Finding:*  FreeCodeCamp, the most engaging content tends to be short-form tutorials, focusing on quick, actionable learning. 
+For CodeBasics, the most engaging content revolves around interview-style discussions and long-form educational sessions.
 .  
   - *Insight:* Identifying top-performing content enables creators to replicate successful strategies for future growth.  
 
