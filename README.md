@@ -56,6 +56,7 @@ For CodeBasics, the most engaging content revolves around interview-style discus
   - *Insight:* Channels with lower view counts should refine their SEO strategy, thumbnails, and social media visibility.
  
 - **What are the best days of the week to post YouTube videos for maximum engagement?**
+- 
   -*Finding:* Weekdays outperform weekends, with higher audience activity.
   -Tuesday, Wednesday, and Saturday drive peak engagement.
   -Friday sees lower interaction, likely due to weekend prep.
@@ -64,10 +65,11 @@ For CodeBasics, the most engaging content revolves around interview-style discus
 
 
 - **How should posting times be adjusted based on audience demographics?**
-  -Findings: Work professionals → Engage mostly between 7 AM – 9 AM (before work) and 7 PM – 9 PM (after work).
+- 
+  -*Finding:* Work professionals → Engage mostly between 7 AM – 9 AM (before work) and 7 PM – 9 PM (after work).
   -Students → More active in afternoons (3 PM – 7 PM).
   -Global audiences → Late-night uploads (10 PM – 12 AM) work best.
-  -Insight: Creators should analyze their audience demographics to refine posting schedules.If targeting professionals, early morning and evening slots work best.If targeting students, afternoon posts optimize engagement.
+  -*Insight:* Creators should analyze their audience demographics to refine posting schedules.If targeting professionals, early morning and evening slots work best.If targeting students, afternoon posts optimize engagement.
 
 
 
