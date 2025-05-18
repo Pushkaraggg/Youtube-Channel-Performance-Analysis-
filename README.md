@@ -53,7 +53,26 @@ For CodeBasics, the most engaging content revolves around interview-style discus
 
 - **How does average view count impact performance?**  
   - *Finding:* FreeCodeCamp dominates with the highest average view count, followed by Rishab Mishra and techTFQ.  
-  - *Insight:* Channels with lower view counts should refine their SEO strategy, thumbnails, and social media visibility.  
+  - *Insight:* Channels with lower view counts should refine their SEO strategy, thumbnails, and social media visibility.
+ 
+  - **What are the best days of the week to post YouTube videos for maximum engagement?**
+- *Finding:* Weekdays outperform weekends, with higher audience activity.
+  Tuesday, Wednesday, and Saturday drive peak engagement.
+  Friday sees lower interaction, likely due to weekend prep.
+  *Insight:* Post on Tuesday & Wednesday for maximum reach.
+  Use Saturday for long-form content when viewers have more time.
+  Avoid Friday uploads unless targeting quick-view content.
+
+
+- **How should posting times be adjusted based on audience demographics?**
+  Findings: Work professionals → Engage mostly between 7 AM – 9 AM (before work) and 7 PM – 9 PM (after work).
+  Students → More active in afternoons (3 PM – 7 PM).
+  Global audiences → Late-night uploads (10 PM – 12 AM) work best.
+   Insight: Creators should analyze their audience demographics to refine posting schedules.
+  If targeting professionals, early morning and evening slots work best.
+  If targeting students, afternoon posts optimize engagement.
+
+
 
 ---
 
@@ -69,7 +88,5 @@ For CodeBasics, the most engaging content revolves around interview-style discus
 - **Engagement is more crucial than just subscriber count**—channels with high engagement rates thrive despite smaller audiences.  
 - **Frequent uploads alone do not guarantee success**—quality and relevance play a larger role in retention.  
 - **Sentiment analysis provides valuable viewer feedback**—channels should refine content based on audience reception.  
-- **Data-driven improvements empower creators**—focusing on engagement, visibility, and strategy is key to long-term success.  
-
-This update now includes key questions from the dashboard alongside the relevant findings and insights. Let me know if you'd like any additional refinements! 🚀
+- **Data-driven improvements empower creators**—focusing on engagement, visibility, and strategy is key to long-term success. 
 
